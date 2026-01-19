@@ -1,0 +1,4 @@
+[package]
+name = "scipic"
+version = "0.1.1"
+entrypoint = "scipic.typ"
